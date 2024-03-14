@@ -27,7 +27,7 @@ Este repositorio contiene la implementación de dos microservicios solicitados p
 
 ### Endpoints y Métodos Admitidos
 
-- `/inmuebles/disponibles`
+- `/inmuebles`
   - Método: GET
   - Parámetros:
     - `state` (opcional): Estado del inmueble (pre_venta, en_venta, vendido)
@@ -75,6 +75,10 @@ Para ejecutar el microservicio de consulta, sigue estos pasos:
 1. Instala las dependencias utilizando `pip install -r requirements.txt`.
 2. Configura las credenciales de la base de datos en el archivo `.env`.
 3. Ejecuta `python server.py` para iniciar el servidor.
+
+# Recomendaciones
+
+- se recomienda crear un entorno virtual para este proyecto, con el fin de que no genere conflicto con otras librerias 
 
 ## Pruebas Unitarias
 
