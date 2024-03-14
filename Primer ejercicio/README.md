@@ -53,7 +53,7 @@ Se ha extendido el modelo de la base de datos para incluir la funcionalidad de "
 
 #### Diagrama de Entidad-Relación (ER)
 
-![Diagrama de Entidad-Relación (ER)]()
+![Diagrama de Entidad-Relación (ER)](https://github.com/Danielmc09/pruebaHABI/blob/main/Primer%20ejercicio/img/esquema_full.png)
 
 #### Código SQL para la Extensión del Modelo
 
